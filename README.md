@@ -1,17 +1,9 @@
 # 👋 Joel Bozada
 
-🔧 Técnico en línea blanca  
-⚡ Reparación de tarjetas electrónicas  
+🔧 Técnico en línea blanca en el área de electrónica 
 💻 Aprendiendo programación (Python & Kotlin)  
 📍 Ecuador
-
----
-
-## 🧠 Perfil
-
-Soy **técnico en reparación de tarjetas electrónicas de línea blanca**, enfocado en diagnóstico y solución de fallas reales en equipos domésticos.
-
-Actualmente estoy **aprendiendo programación desde cero** 
+🧠 Actualmente estoy **aprendiendo programación desde cero** 
 ---
 
 ## 🔌 Electrónica (experiencia práctica)
@@ -50,7 +42,7 @@ Actualmente estoy **aprendiendo programación desde cero**
 - Nivel: inicial
 - Fundamentos del lenguaje Kotlin
 - Lógica básica de apps Android
-- Comprensión del sistema Android
+<!-- Comprensión del sistema Android -->
 
 ---
 
