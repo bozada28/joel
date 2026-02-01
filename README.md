@@ -3,6 +3,7 @@
 🔧 Técnico en línea blanca en el área de electrónica 
 💻 Aprendiendo programación (Python & Kotlin)  
 📍 Ecuador
+---
 🧠 Actualmente estoy **aprendiendo programación desde cero
 ---
 
