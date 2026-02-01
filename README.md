@@ -1,9 +1,9 @@
 # 👋 Joel Bozada
 
-🔧 Técnico en línea blanca – área de **electrónica**
-💻 Aprendiendo **programación** (Python & Kotlin)
-🧠 Aprendiendo desde **cero**, paso a paso
-📍 Ecuador
+* 🔧 Técnico en línea blanca – área de **electrónica**
+* 💻 Aprendiendo **programación** (Python & Kotlin)
+* 🧠 Aprendiendo desde **cero**, paso a paso
+* 📍 Ecuador
 
 ---
 
