@@ -23,7 +23,6 @@ Actualmente estoy **aprendiendo programación desde cero**
   - Relés
   - Optoacopladores
 - Medición y análisis con osciloscopio 
-- Pruebas en placas reales (no solo simulación)
 
 ---
 
@@ -43,8 +42,8 @@ Actualmente estoy **aprendiendo programación desde cero**
 ### 🐍 Python
 - Nivel: principiante
 - Scripts simples
-- Automatización básica
-- Interfaz gráficas sencillas con Flet
+<!--- Automatización básica  -->
+<!--- Interfaz gráficas sencillas con Flet  -->
 - Ejecución de comandos del sistema
 
 ### 📱 Kotlin / Android
@@ -55,12 +54,12 @@ Actualmente estoy **aprendiendo programación desde cero**
 
 ---
 
-## 📂 Qué encontrarás en mis repositorios
+ <!-- ## 📂 Qué encontrarás en mis repositorios
 
 - 🛠️ Casos reales de reparación electrónica
 - 🔬 Pruebas y experimentos técnicos
 - 📘 Proyectos de aprendizaje documentados
-- 📝 Código explicado paso a paso
+- 📝 Código explicado paso a paso  -->
   <!-- - ⚠️ Errores comunes y soluciones reales  -->
 
 ---
