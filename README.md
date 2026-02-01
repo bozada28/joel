@@ -4,7 +4,7 @@
 💻 Aprendiendo programación (Python & Kotlin)  
 📍 Ecuador
 ---
-🧠 Actualmente estoy **aprendiendo programación desde cero
+🧠 Actualmente estoy aprendiendo programación desde cero
 ---
 
 ## 🔌 Electrónica (experiencia práctica)
