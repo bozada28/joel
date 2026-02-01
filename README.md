@@ -1,74 +1,60 @@
 # 👋 Joel Bozada
 
-🔧 Técnico en línea blanca en el área de electrónica 
-💻 Aprendiendo programación (Python & Kotlin)  
+🔧 Técnico en línea blanca – área de **electrónica**
+💻 Aprendiendo **programación** (Python & Kotlin)
+🧠 Aprendiendo desde **cero**, paso a paso
 📍 Ecuador
----
-🧠 Actualmente estoy aprendiendo programación desde cero
+
 ---
 
 ## 🔌 Electrónica (experiencia práctica)
 
-- Diagnóstico y reparación de tarjetas electrónicas
-- Línea blanca (lavadoras, refrigeradoras, etc.)
-- Control de potencia:
-  - TRIAC
-  - Relés
-  - Optoacopladores
-- Medición y análisis con osciloscopio 
+* Diagnóstico y reparación de **tarjetas electrónicas**
+* Línea blanca:
+
+  * Lavadoras
+  * Refrigeradoras
+* Control de potencia:
+
+  * TRIAC
+  * Relés
+  * Optoacopladores
+* Medición y análisis con **osciloscopio**
 
 ---
 
-## 🤖 Sistemas embebidos (aprendizaje)
+## 🤖 Sistemas embebidos (en aprendizaje)
 
-- Arduino (Nano, ATmega)
- - Manejo de entradas/salidas digitales
-<!--- Lógica secuencial con botones
-- Control básico de procesos
-- Lectura / escritura de memorias SPI
-- Simulación en Proteus (nivel básico) -->
+* Arduino:
+
+  * Nano
+  * ATmega
+* Manejo de:
+
+  * Entradas digitales
+  * Salidas digitales
 
 ---
 
 ## 💻 Programación (en aprendizaje)
 
 ### 🐍 Python
-- Nivel: principiante
-- Scripts simples
-<!--- Automatización básica  -->
-<!--- Interfaz gráficas sencillas con Flet  -->
-- Ejecución de comandos del sistema
+
+* Nivel: principiante
+* Scripts simples
+* Ejecución de comandos del sistema
 
 ### 📱 Kotlin / Android
-- Nivel: inicial
-- Fundamentos del lenguaje Kotlin
-- Lógica básica de apps Android
-<!-- Comprensión del sistema Android -->
 
----
-
- <!-- ## 📂 Qué encontrarás en mis repositorios
-
-- 🛠️ Casos reales de reparación electrónica
-- 🔬 Pruebas y experimentos técnicos
-- 📘 Proyectos de aprendizaje documentados
-- 📝 Código explicado paso a paso  -->
-  <!-- - ⚠️ Errores comunes y soluciones reales  -->
+* Nivel: inicial
+* Fundamentos del lenguaje Kotlin
 
 ---
 
 ## 🎯 Objetivo
 
-Complementar la **reparación electrónica tradicional** con conocimientos de **programación y sistemas embebidos**, avanzando paso a paso y de forma práctica.
-
----
-
-<!--
-## 🏗️ Proyectos futuros
-- Automatización de procesos con Arduino
-- Herramientas en Python para diagnóstico
-- Apps Android simples para soporte técnico
--->
+Complementar la **reparación electrónica tradicional** con conocimientos de
+**programación y sistemas embebidos**, avanzando de forma **práctica y progresiva**.
 
 ---
 
@@ -78,4 +64,4 @@ Complementar la **reparación electrónica tradicional** con conocimientos de **
 
 ---
 
-⭐ Si algún repositorio te sirve, una estrella ayuda bastante.
+
